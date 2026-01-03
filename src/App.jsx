@@ -5,6 +5,7 @@ const App = () => {
     <div>
       <div>My Web App</div>
       <div>Checking Build Process</div>
+      <div>Checking Build Process</div>
     </div>
   )
 }
