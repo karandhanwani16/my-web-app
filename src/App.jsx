@@ -11,6 +11,8 @@ const App = () => {
         <li>Item 4</li>
         <li>Item 5</li>
 
+<p>This is a paragraph which was enetered today</p>
+
       </ul>
     </div>
   )
